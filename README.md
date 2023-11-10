@@ -5,8 +5,8 @@
 - 📫 How to reach me: message me at github
 
 - I mostly used command line tools and editors either on Linux or Windows ( Notepad++, Vim, or gedit). I hate IDEs
-- I recommend that you install notepad++, python, windbg, HXD, WinMerge and git
-- Git GUI that comes along with git is good enough to the work we need.
+- I recommend that you install Visual Studio 2022, notepad++, python, windbg, HXD, WinMerge and git
+- Git GUI that comes along with git is good enough for our needed work.
   
 
 <!---
